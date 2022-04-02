@@ -2,6 +2,42 @@
    "wallpapers":[
       {
          "author":"icarusap",
+         "url":"https://i.imgur.com/N6ytlZb.png",
+         "name":"Bluegray",
+         "thumbnail": "https://i.imgur.com/N6ytlZb.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://i.imgur.com/M9qOHAU.png",
+         "name":"Green",
+         "thumbnail": "https://i.imgur.com/M9qOHAU.png"
+      },
+      {
+         "author":"icarusap",
+         "url":"https://i.imgur.com/seSZISX.png",
+         "name":"Pink",
+         "thumbnail": "https://i.imgur.com/seSZISX.png"
+      },
+            {
+         "author":"icarusap",
+         "url":"https://i.imgur.com/uXq4uMr.png",
+         "name":"Yellow",
+         "thumbnail": "https://i.imgur.com/uXq4uMr.png"
+      },
+               {
+         "author":"icarusap",
+         "url":"https://i.imgur.com/AsagSvo.png",
+         "name":"Darkgray",
+         "thumbnail": "https://i.imgur.com/AsagSvo.png"
+      },
+               {
+         "author":"icarusap",
+         "url":"https://i.imgur.com/AohQQO6.png",
+         "name":"Lightgray",
+         "thumbnail": "https://i.imgur.com/AohQQO6.png"
+      },
+      {
+         "author":"icarusap",
          "url":"https://i.imgur.com/E5ztYUC.png",
          "name":"Donut for You",
          "thumbnail": "https://i.imgur.com/E5ztYUC.png"
