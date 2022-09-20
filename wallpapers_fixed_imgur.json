@@ -1,109 +1,57 @@
+[
 {
-   "wallpapers":[
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Bluegray.png",
-         "name":"Bluegray",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Bluegray.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Green.png",
-         "name":"Green",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Green.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Pink.png",
-         "name":"Pink",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Pink.png"
-      },
-            {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Lightgray.png",
-         "name":"Light Gray",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Lightgraypng"
-      },
-               {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Yellow.png",
-         "name":"Yellow",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Yellow.png"
-      },
-               {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Darkgray.png",
-         "name":"Dark Gray",
-         "thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Darkgray.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/donut.png",
-         "name":"Donut for You",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/donut.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/leaves.png",
-         "name":"Leaves",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/leaves.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/shapes.png",
-         "name":"Shapes",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_2.png",
-         "name":"Blended 1",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_2.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_3.png",
-         "name":"Blended 2",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_3.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_4.png",
-         "name":"Blended 3",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_4.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_5.png",
-         "name":"Blended 4",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Shapes_5.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/legend.png",
-         "name":"The Legend Himself",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/legend.png"
-      },
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Icy.png",
-         "name":"Ice-cream",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Icy.png"
-      },
+"name": "Bluegray",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Bluegray.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Bluegray.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+ 
+  {
+"name": "Green",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Green.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Green.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+  {
+"name": "Yellow",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Yellow.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Yellow.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+  {
+"name": "Pink",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Pink.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Pink.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+  {
+"name": "Light Gray",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Lightgray.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Lightgray.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+  
+ {
+"name": "Dark Gray",
+"author": "IcarusAP",
+"url": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Darkgray.png",
+"thumbnail": "https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/Darkgray.png",
+"dimensions": "1320x2340",
+"copyright": "icarusap.com 2020-2022"
+},
+ 
 
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/watermelon.png",
-         "name":"Watermelon",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/watermelon.png"
-      },
-
-      {
-         "author":"icarusap",
-         "url":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/nintendo.png",
-         "name":"Super Nintendo",
-         "thumbnail":"https://raw.githubusercontent.com/icarus-ap/Uzuri-Walls/main/nintendo.png"
-      }
-
-   ]
-}
+}]
